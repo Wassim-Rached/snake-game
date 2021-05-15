@@ -24,6 +24,6 @@ body {
 }
 
 .food {
-  background-color: hsl(7, 67%, 47%);
-  border: 0.25vmin solid black;
+  background-image: url(images/apple.png);
+  background-size: cover;
 }
